@@ -5,3 +5,4 @@ commr estimateur il a été utilisé le gridsearch
                                      lazypredict
                                      Polynolialregression pour optimiser les performances 
 Pour finir la performance de la prediction est ainsi car j'ai utilisé juste 10e5 de la quantité totale des données pour reduire le temps et aussi dû à une contrainte de de materiel de traitement.
+the best performance obtained is 69,54% almost 70 which is not bad considering the amount of data i used.
